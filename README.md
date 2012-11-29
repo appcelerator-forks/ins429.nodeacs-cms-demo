@@ -1,5 +1,4 @@
-NODE.ACS
-(M)VC framework demo.
+###NODE.ACS (M)VC framework demo
 
 Please do fill out your ACS app's oauth_key and oauth_secret_key on app.js.
 
@@ -9,8 +8,8 @@ To publish, modify package.json.
 
 Read more about on Node.ACS, http://nodeacs.cloud.appcelerator.com/guides/quickstart.
 
-Quick Start (CMS)
------------------
+#####Quick Start (CMS)
+
 *Using express.js as web app framework
 *Package.json,
 *app.js
