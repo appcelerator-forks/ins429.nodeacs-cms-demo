@@ -27,7 +27,9 @@ Read more about on Node.ACS, http://nodeacs.cloud.appcelerator.com/guides/quicks
 
 
 Flash message:
+
 a flash message something similar to flash on rails
-req.session.flash = {msg:"Please login first.",r:0};
-msg: flash message,
-r: flag if flash has been read(1) or not(0)
+
+    req.session.flash = {msg:"Please login first.",r:0};
+
+msg: flash message, r: flag if flash has been read(1) or not(0)
