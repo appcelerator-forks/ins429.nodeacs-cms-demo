@@ -10,19 +10,19 @@ Read more about on Node.ACS, http://nodeacs.cloud.appcelerator.com/guides/quicks
 
 #####Quick Start (CMS)
 
-*Using express.js as web app framework
-*Package.json,
-*app.js
+* Using express.js as web app framework
+* Package.json,
+* app.js
   * initialize ACS
   * setup express.js settings
   * choose view system for express.js: express-partials
-*Routing: config.json
+* Routing: config.json
   * routing: determined which controller#function to use
   * filters
   * websocket(removed)
-*Views
+* Views
   * Assets, (public)/images, (public)/css, (public)/js
-*Controllers
+* Controllers
   * Methods and functions(actions)
 
 
